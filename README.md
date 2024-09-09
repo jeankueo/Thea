@@ -10,12 +10,12 @@
     - tbd
 
 ### Tasks after Birth
-- [ ] upload birth certificate to employer
 - [ ] contact insurance (tk) for adding new born's name
 - [ ] apply for Kindergeld
 - [ ] apply for Elterngeld
+- [ ] mama upload birth certificate to employer
 - [ ] mama confirm Elternzeit with employer
-- [ ] papa apply Elternzeit with employee (can be done later, just 7 weeks before it starts)
+- [ ] papa apply Elternzeit with employer (can be done later, just 7 weeks before it starts)
 - [ ] contact Kindergarten
 - [ ] contact Kinderartzt (for U3 termine)
 - [ ] ? apply for passport / id ? Rathaus?
