@@ -19,7 +19,7 @@
 - [ ] contact Kindergarten
 - [ ] contact Kinderartzt (for U3 termine)
 - [ ] ? apply for passport / id ? Rathaus?
-- [ ] earing piecing
+- [ ] earring piecing
 
 ### Kindergeld
 - [information about Kindergeld](https://www.arbeitsagentur.de/familie-und-kinder/infos-rund-um-kindergeld)
