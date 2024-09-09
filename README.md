@@ -1,6 +1,15 @@
 ### Prepare for Birth
 - todo
 
+### TODOs after Birth
+- upload birth certificate to employer
+- contact insurance (tk) for adding new born's name
+- apply for Kindergeld
+- apply for Elterngeld
+- contact Kindergarten
+- contact Kinderartzt (for U3 termine)
+- ? apply for passport / id ? Rathaus?
+
 ### Kindergeld
 - [information about Kindergeld](https://www.arbeitsagentur.de/familie-und-kinder/infos-rund-um-kindergeld)
 - [application website](https://www.arbeitsagentur.de/familie-und-kinder/infos-rund-um-kindergeld/kindergeld-anspruch-hoehe-dauer)
