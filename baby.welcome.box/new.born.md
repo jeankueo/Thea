@@ -1,0 +1,12 @@
+- [x] [rossmann](https://www.babywelt.club/) - register in app, obholen in filiat by coupon in app, more coupon come before due date
+- [x] [dm](https://www.dm.de/glueckskind)  - register in website, wait for coupon in app
+    - [ ] ?
+    - [ ] when child is born
+- [ ] [lidl](https://www.lidl.de/c/lidl-babyboxen/s10011221?v=1cx,head1cx&mktc=shopping&cid=19969095584&utm_source=google&utm_medium=cpc&utm_campaign=sho-sea_shop_cid-19969095584&utm_content=&utm_term=&gad_source=1&gclid=CjwKCAjwkJm0BhBxEiwAwT1AXNXq3ApiHioLrSoDPtZkaObJJRNr1yaZJuwAQ_9cRFBlYfwAVACwhhoChb8QAvD_BwE&et_uk=7670736fbc7141dcb535d2677cea4b5d)  - register in app, wait for post of coupon
+- [ ] [müller](https://www.mueller.de/meinbaby/) - register in app, wait for post of coupon, go to filiat to abholen
+- [x] [babyone](https://www.babyone.de/welcome-box) - register online, go to filiat for abholung directly by showing Mutterpass
+- [ ] [kaufland] - register in app, wait for post
+- [x] [hipp](https://www.hipp.de/babyclub/ihre-vorteile/alle-vorteile-auf-einen-blick/) - 在线注册后等待post
+- [ ] [globus] - in app register for Weltentdecker, after registration keep eye on email, mail and app
+- [ ] [nestle](https://www.babyandme.de/) - register on line, wait for posting. currently luckydraw for chair every month
+- [ ] [amazon](https://www.amazon.de/-/en/b?node=21679890031)
