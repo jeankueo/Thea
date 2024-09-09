@@ -1,14 +1,24 @@
 ### Prepare for Birth
-- todo
+- bring to hospital
+    - documents
+        - tbd
+    - for mama
+        - tbd
+    - for baby
+        - tbd
+- from hospital home
+    - tbd
 
-### TODOs after Birth
-- upload birth certificate to employer
-- contact insurance (tk) for adding new born's name
-- apply for Kindergeld
-- apply for Elterngeld
-- contact Kindergarten
-- contact Kinderartzt (for U3 termine)
-- ? apply for passport / id ? Rathaus?
+### Tasks after Birth
+- [ ] upload birth certificate to employer
+- [ ] contact insurance (tk) for adding new born's name
+- [ ] apply for Kindergeld
+- [ ] apply for Elterngeld
+- [ ] mama confirm Elternzeit with employer
+- [ ] papa apply Elternzeit with employee (can be done later, just 7 weeks before it starts)
+- [ ] contact Kindergarten
+- [ ] contact Kinderartzt (for U3 termine)
+- [ ] ? apply for passport / id ? Rathaus?
 
 ### Kindergeld
 - [information about Kindergeld](https://www.arbeitsagentur.de/familie-und-kinder/infos-rund-um-kindergeld)
