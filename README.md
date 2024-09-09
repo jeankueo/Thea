@@ -1,7 +1,8 @@
 ### Prepare for Birth
 - bring to hospital
     - documents
-        - tbd
+        - parents' passport
+        - parents' birth certificate
     - for mama
         - tbd
     - for baby
