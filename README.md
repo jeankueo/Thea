@@ -9,6 +9,7 @@
         - tbd
     - for birth
         - sweets
+        - papa record time of contraction to break womans evil circle: pain - scared - tense - less oxy?cin
 - from hospital home
     - tbd
 
