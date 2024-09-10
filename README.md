@@ -10,6 +10,11 @@
     - for birth
         - sweets
         - papa record time of contraction to break womans evil circle: pain - scared - tense - less oxy?cin
+    - ph
+        - ep früh 1-4
+        - ep spät 4-8
+        - austreibungs ph
+        - nachgeburt ph
 - from hospital home
     - tbd
 
