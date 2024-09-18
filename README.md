@@ -18,6 +18,19 @@
 - from hospital home
     - tbd
 
+### Geburtsphase
+- Eröffnungsperiode
+    - 2h - Verkürzung des Gebärmutterhalses
+    - 4h - 1-4cm
+    - 4h - 5-8cm   
+    - 2h - 9-10cm
+- Austreibungsperiode
+    - 1-2h frühe Austreibungsphase
+    - 20-40m Pressphase
+- Pressphase
+- Nachgeburtsperiode
+    - 10-30m Plazenta 
+
 ### Tasks after Birth
 - [ ] contact insurance (tk) for adding new born's name
 - [ ] apply for Kindergeld
