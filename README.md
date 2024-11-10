@@ -1,35 +1,5 @@
-### Prepare for Birth
-- bring to hospital
-    - documents
-        - parents' passport
-        - parents' birth certificate
-    - for mama
-        - tbd
-    - for baby
-        - tbd
-    - for birth
-        - sweets
-        - papa record time of contraction to break womans evil circle: pain - scared - tense - less oxy?cin
-    - ph
-        - ep früh 1-4
-        - ep spät 4-8
-        - austreibungs ph
-        - nachgeburt ph
-- from hospital home
-    - tbd
-
-### Geburtsphase
-- Eröffnungsperiode
-    - 2h - Verkürzung des Gebärmutterhalses
-    - 4h - 1-4cm
-    - 4h - 5-8cm   
-    - 2h - 9-10cm
-- Austreibungsperiode
-    - 1-2h frühe Austreibungsphase
-    - 20-40m Pressphase
-- Pressphase
-- Nachgeburtsperiode
-    - 10-30m Plazenta 
+### Check list
+https://familienportal.de/familienportal/lebenslagen/schwangerschaft-geburt/checklisten
 
 ### Tasks after Birth
 - [ ] contact insurance (tk) for adding new born's name
