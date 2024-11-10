@@ -22,6 +22,7 @@ A few days after the birth of your child, you will automatically receive a welco
 Our recommendation: Wait for the letter before you submit your child benefit application. If you have already submitted an application, you can ignore the welcome letter.
 
 ### Elternzeit / Elterngeld
+- [Baden-Württemberg application link](https://www.l-bank.de/produkte/familienfoerderung/elterngeld.html)
 - [Elterngeld/zeit Intro and Planner](https://www.bmfsfj.de/)
     - ![planner result](./elternzeit/eltenzeitgeld.planner.PNG)
 - [Application Info List](https://familienportal.de/familienportal/rechner-antraege/antragsformulare)
